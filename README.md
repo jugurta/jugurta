@@ -83,6 +83,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimize your Spring Reactive API with Redis Cache](https://medium.com/@jugurtha.aitoufella/optimize-your-spring-reactive-api-with-redis-cache-6116545ec96a?source=rss-784623b9b49d------2)
 - [Facilitate your integration tests with Spring Docker Compose](https://medium.com/@jugurtha.aitoufella/facilitate-your-integration-tests-with-spring-docker-compose-31963469e789?source=rss-784623b9b49d------2)
 - [Enforcing and Testing your Java Clean Architecture Project with ArchUnit](https://medium.com/@jugurtha.aitoufella/enforcing-and-testing-your-java-clean-architecture-project-with-archunit-56569f3fd547?source=rss-784623b9b49d------2)
 - [Implementing a Reactive API using Contract-First approach and Clean architecture with Spring Boot 3](https://medium.com/@jugurtha.aitoufella/implementing-a-reactive-api-using-contract-first-approach-and-clean-architecture-with-spring-boot-3-14280219b394?source=rss-784623b9b49d------2)
