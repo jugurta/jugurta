@@ -83,6 +83,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enforce your Spring Reactive API Authentication with JWT and Keycloak](https://medium.com/@jugurtha.aitoufella/enforce-your-spring-reactive-api-authentication-with-jwt-and-keycloak-00b6d4dde5da?source=rss-784623b9b49d------2)
 - [Optimize your Spring Reactive API with Redis Cache](https://medium.com/@jugurtha.aitoufella/optimize-your-spring-reactive-api-with-redis-cache-6116545ec96a?source=rss-784623b9b49d------2)
 - [Facilitate your integration tests with Spring Docker Compose](https://medium.com/@jugurtha.aitoufella/facilitate-your-integration-tests-with-spring-docker-compose-31963469e789?source=rss-784623b9b49d------2)
 - [Enforcing and Testing your Java Clean Architecture Project with ArchUnit](https://medium.com/@jugurtha.aitoufella/enforcing-and-testing-your-java-clean-architecture-project-with-archunit-56569f3fd547?source=rss-784623b9b49d------2)
