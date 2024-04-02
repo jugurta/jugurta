@@ -83,11 +83,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comment je me suis préparé à la certification Associate Cloud Engineer de GCP](https://medium.com/@jugurtha.aitoufella/comment-je-me-suis-pr%C3%A9par%C3%A9-%C3%A0-la-certification-associate-cloud-engineer-de-gcp-c409f8ec23f0?source=rss-784623b9b49d------2)
 - [Developing a Side Project: Laying the Foundations](https://medium.com/@jugurtha.aitoufella/developing-a-side-project-laying-the-foundations-a7071d283574?source=rss-784623b9b49d------2)
 - [Développer un Side-Project: poser les bases](https://medium.com/@jugurtha.aitoufella/d%C3%A9velopper-un-side-project-poser-les-bases-f3f9416fd969?source=rss-784623b9b49d------2)
 - [Documenting Your Development Process: A Guide to Architecture Decision Records with Markdown and…](https://medium.com/@jugurtha.aitoufella/documenting-your-development-process-a-guide-to-architecture-decision-records-with-markdown-and-b428ba091ffa?source=rss-784623b9b49d------2)
 - [Enforce your Spring Reactive API Authentication with JWT and Keycloak](https://medium.com/@jugurtha.aitoufella/enforce-your-spring-reactive-api-authentication-with-jwt-and-keycloak-00b6d4dde5da?source=rss-784623b9b49d------2)
-- [Optimize your Spring Reactive API with Redis Cache](https://medium.com/@jugurtha.aitoufella/optimize-your-spring-reactive-api-with-redis-cache-6116545ec96a?source=rss-784623b9b49d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
