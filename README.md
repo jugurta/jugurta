@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jugurtha, a full-time Back-End freelance developer 👨‍💻</div>
 
 
-- 🌱 I’m currently learning GCP and looking forward to pass the certification
+- 🌱 I’m currently learning ~~GCP~~ Terraform and looking forward to pass the certification
 
 
 - ❓ Ask me about anything related to Java Spring Boot stack and related technologies
@@ -17,6 +17,10 @@
 
 <br/>  
 
+
+## Certifications
+
+<a href="https://www.credly.com/badges/2a721c6e-80b5-4257-8e02-544337d91565/public_url"> <img src="img/gcp-certif.png"> </a>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
