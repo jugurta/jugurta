@@ -87,11 +87,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Prepared for the HashiCorp Certified: Terraform Associate &lpar;003&rpar; Certification](https://medium.com/@jugurtha.aitoufella/how-i-prepared-for-the-hashicorp-certified-terraform-associate-003-certification-4b762f187d53?source=rss-784623b9b49d------2)
+- [Comment je me suis préparé à la certification HashiCorp Certified: Terraform Associate &lpar;003&rpar;](https://medium.com/@jugurtha.aitoufella/comment-je-me-suis-pr%C3%A9par%C3%A9-%C3%A0-la-certification-hashicorp-certified-terraform-associate-003-17ffbe13fa6d?source=rss-784623b9b49d------2)
 - [How I prepared for GCP Associate Engineer Certification](https://medium.com/@jugurtha.aitoufella/how-i-prepared-for-gcp-associate-engineer-certification-fcfda7b40a27?source=rss-784623b9b49d------2)
 - [Comment je me suis préparé à la certification Associate Cloud Engineer de GCP](https://medium.com/@jugurtha.aitoufella/comment-je-me-suis-pr%C3%A9par%C3%A9-%C3%A0-la-certification-associate-cloud-engineer-de-gcp-c409f8ec23f0?source=rss-784623b9b49d------2)
 - [Developing a Side Project: Laying the Foundations](https://medium.com/@jugurtha.aitoufella/developing-a-side-project-laying-the-foundations-a7071d283574?source=rss-784623b9b49d------2)
-- [Développer un Side-Project: poser les bases](https://medium.com/@jugurtha.aitoufella/d%C3%A9velopper-un-side-project-poser-les-bases-f3f9416fd969?source=rss-784623b9b49d------2)
-- [Documenting Your Development Process: A Guide to Architecture Decision Records with Markdown and…](https://medium.com/@jugurtha.aitoufella/documenting-your-development-process-a-guide-to-architecture-decision-records-with-markdown-and-b428ba091ffa?source=rss-784623b9b49d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
