@@ -21,6 +21,7 @@
 ## Certifications
 
 <a href="https://www.credly.com/badges/2a721c6e-80b5-4257-8e02-544337d91565/public_url"> <img src="img/gcp-certif.png"> </a>
+<a href="https://www.credly.com/badges/c3054936-47ac-4522-baea-308d4dbd84fb/public_url"> <img src="img/terraform-associate.png"> </a>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -54,7 +55,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 </div>
 
 </td></tr></table>  
