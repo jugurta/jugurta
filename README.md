@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jugurtha, a full-time Back-End freelance developer 👨‍💻</div>
 
 
-- 🌱 I’m currently learning ~~GCP~~ ~~Terraform~~ Datadog and looking forward to pass the certification
+- 🌱 I’m currently learning ~~GCP~~ ~~Terraform~~ ~~Datadog~~ Kubernetes and looking forward to pass the certification
 
 
 - ❓ Ask me about anything related to Java Spring Boot stack and related technologies
@@ -18,10 +18,11 @@
 <br/>  
 
 
-## Certifications
+## Certifications & Badges
 
 <a href="https://www.credly.com/badges/2a721c6e-80b5-4257-8e02-544337d91565/public_url"> <img src="img/gcp-certif.png"> </a>
 <a href="https://www.credly.com/badges/c3054936-47ac-4522-baea-308d4dbd84fb/public_url"> <img src="img/terraform-associate.png"> </a>
+<a href="https://www.credly.com/badges/40df479a-3530-4671-af2c-746d52c8918c"> <img src="img/datadog-fundamentals.png"> </a>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
