@@ -23,6 +23,8 @@
 <a href="https://www.credly.com/badges/2a721c6e-80b5-4257-8e02-544337d91565/public_url"> <img src="img/gcp-certif.png"> </a>
 <a href="https://www.credly.com/badges/c3054936-47ac-4522-baea-308d4dbd84fb/public_url"> <img src="img/terraform-associate.png"> </a>
 <a href="https://www.credly.com/badges/40df479a-3530-4671-af2c-746d52c8918c"> <img src="img/datadog-fundamentals.png"> </a>
+<a href="https://www.credly.com/badges/c6bccddc-90a3-4598-a617-9bb7366e6aeb"> <img src="img/Professional-Scrum-Developer.png" width="17%"> </a>
+<a href="https://www.credential.net/ac33abb0-52a2-4eb1-9ffd-02d975c2fc93#gs.bloorh"> <img src="img/redis-certified.png" width="17%"> </a>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
